@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQl7d0o+XbDdPn2XuISaH2I+ioMNfcxuu9K7sS9bRaNaI8OePNDms/qVDHaPRF3JFS4DauHp507yUC63WY2bKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BrightFrp\\BrightFrp\\BrightFrp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\downloader\\3.1.0-beta\\downloader.3.1.0-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

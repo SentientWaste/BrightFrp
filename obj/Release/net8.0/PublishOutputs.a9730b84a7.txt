@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Release\net8.0\publish\BrightFrp.dll
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Release\net8.0\publish\BrightFrp.deps.json
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Release\net8.0\publish\BrightFrp.pdb
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Release\net8.0\publish\Downloader.dll

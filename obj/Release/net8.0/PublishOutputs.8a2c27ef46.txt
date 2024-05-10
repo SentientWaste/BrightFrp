@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp.dll
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp.deps.json
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp.pdb
+C:\Users\Administrator\Desktop\BrightFrp\Downloader.dll

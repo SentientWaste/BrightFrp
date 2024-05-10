@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BrightFrp/1.0.0": {
+        "dependencies": {
+          "Downloader": "3.1.0-beta"
+        },
+        "runtime": {
+          "BrightFrp.dll": {}
+        }
+      },
+      "Downloader/3.1.0-beta": {
+        "runtime": {
+          "lib/net6.0/Downloader.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BrightFrp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Downloader/3.1.0-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ixNOxzuPIayKKSde3MOr6lZgHwVhCybOtu3O1Hpu0WIDuC/0XSVdhNz8Hs/0rYl+/J+GPiZxIRIHbLPWLcguyg==",
+      "path": "downloader/3.1.0-beta",
+      "hashPath": "downloader.3.1.0-beta.nupkg.sha512"
+    }
+  }
+}

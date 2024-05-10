@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Debug\net8.0\BrightFrp.deps.json
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Debug\net8.0\BrightFrp.dll
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\bin\Debug\net8.0\BrightFrp.pdb
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.dll
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\refint\BrightFrp.dll
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.pdb
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\ref\BrightFrp.dll
+C:\Users\Administrator\Desktop\BrightFrp\BrightFrp\obj\Debug\net8.0\BrightFrp.csproj.AssemblyReference.cache
